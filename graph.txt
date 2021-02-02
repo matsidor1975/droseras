@@ -2,3 +2,4 @@
 2021-02-02 add tests [2]
 2021-02-02 update feature [3]
 2021-02-02 improve docs [4]
+2021-02-02 optimize function [5]
