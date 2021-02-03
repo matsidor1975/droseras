@@ -10,3 +10,4 @@
 2021-02-03 refactor code [3]
 2021-02-03 add tests [4]
 2021-02-03 improve docs [5]
+2021-02-03 minor changes [6]
