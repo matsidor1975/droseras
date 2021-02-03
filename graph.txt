@@ -5,3 +5,4 @@
 2021-02-02 optimize function [5]
 2021-02-02 refactor code [6]
 2021-02-02 update feature [7]
+2021-02-03 fix bug [1]
