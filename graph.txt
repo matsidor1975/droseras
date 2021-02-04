@@ -15,3 +15,4 @@
 2021-02-03 improve docs [8]
 2021-02-03 refactor code [9]
 2021-02-04 fix bug [1]
+2021-02-04 minor changes [2]
