@@ -746,3 +746,4 @@
 2021-02-03 add tests [7]
 2021-02-03 refactor code [8]
 2021-02-03 improve docs [9]
+2021-02-04 optimize function [1]
