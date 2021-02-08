@@ -19,3 +19,4 @@
 2021-02-04 fix bug [3]
 2021-02-04 optimize function [4]
 2021-02-04 improve docs [5]
+2021-02-08 refactor code [1]
