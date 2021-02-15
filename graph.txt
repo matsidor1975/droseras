@@ -61,3 +61,4 @@
 2021-02-15 add tests [10]
 2021-02-15 add tests [11]
 2021-02-15 improve docs [12]
+2021-02-15 refactor code [13]
