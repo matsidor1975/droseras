@@ -793,3 +793,4 @@
 2021-02-15 fix bug [4]
 2021-02-15 minor changes [5]
 2021-02-15 improve docs [6]
+2021-02-15 add tests [7]
