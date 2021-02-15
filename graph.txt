@@ -788,3 +788,4 @@
 2021-02-12 update feature [15]
 2021-02-12 add tests [16]
 2021-02-15 optimize function [1]
+2021-02-15 refactor code [2]
