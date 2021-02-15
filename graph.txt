@@ -54,3 +54,4 @@
 2021-02-15 improve docs [3]
 2021-02-15 improve docs [4]
 2021-02-15 improve docs [5]
+2021-02-15 fix bug [6]
