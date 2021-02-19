@@ -65,3 +65,4 @@
 2021-02-15 add tests [14]
 2021-02-19 improve docs [1]
 2021-02-19 fix bug [2]
+2021-02-19 optimize function [3]
