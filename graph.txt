@@ -86,3 +86,4 @@
 2021-02-22 add tests [6]
 2021-02-22 improve docs [7]
 2021-02-22 add tests [8]
+2021-02-22 minor changes [9]
