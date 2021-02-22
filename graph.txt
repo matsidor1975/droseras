@@ -813,3 +813,4 @@
 2021-02-19 fix bug [9]
 2021-02-19 add tests [10]
 2021-02-22 refactor code [1]
+2021-02-22 optimize function [2]
