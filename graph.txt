@@ -818,3 +818,4 @@
 2021-02-22 update feature [4]
 2021-02-22 add tests [5]
 2021-02-22 update feature [6]
+2021-02-22 improve docs [7]
