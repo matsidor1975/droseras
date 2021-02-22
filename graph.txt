@@ -80,3 +80,4 @@
 2021-02-19 improve docs [15]
 2021-02-22 fix bug [1]
 2021-02-22 fix bug [2]
+2021-02-22 add tests [3]
