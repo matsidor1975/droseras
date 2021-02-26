@@ -98,3 +98,4 @@
 2021-02-26 optimize function [7]
 2021-02-26 minor changes [8]
 2021-02-26 improve docs [9]
+2021-02-26 fix bug [10]
