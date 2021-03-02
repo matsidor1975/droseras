@@ -842,3 +842,4 @@
 2021-03-02 improve docs [5]
 2021-03-02 fix bug [6]
 2021-03-02 add tests [7]
+2021-03-02 refactor code [8]
