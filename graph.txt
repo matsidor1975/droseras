@@ -108,3 +108,4 @@
 2021-03-02 add tests [6]
 2021-03-02 improve docs [7]
 2021-03-04 improve docs [1]
+2021-03-04 improve docs [2]
