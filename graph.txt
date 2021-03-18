@@ -880,3 +880,4 @@
 2021-03-18 optimize function [3]
 2021-03-18 add tests [4]
 2021-03-18 improve docs [5]
+2021-03-18 fix bug [6]
