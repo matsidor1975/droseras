@@ -139,3 +139,4 @@
 2021-03-17 add tests [10]
 2021-03-18 improve docs [1]
 2021-03-18 add tests [2]
+2021-03-18 refactor code [3]
