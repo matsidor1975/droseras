@@ -248,3 +248,4 @@
 2021-04-13 optimize function [12]
 2021-04-13 add tests [13]
 2021-04-13 refactor code [14]
+2021-04-13 optimize function [15]
