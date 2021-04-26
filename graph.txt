@@ -294,3 +294,4 @@
 2021-04-26 fix bug [5]
 2021-04-26 improve docs [6]
 2021-04-26 minor changes [7]
+2021-04-26 add tests [8]
