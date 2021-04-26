@@ -1003,3 +1003,4 @@
 2021-04-15 add tests [16]
 2021-04-26 improve docs [1]
 2021-04-26 improve docs [2]
+2021-04-26 optimize function [3]
