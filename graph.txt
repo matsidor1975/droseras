@@ -315,3 +315,4 @@
 2021-04-30 refactor code [9]
 2021-04-30 refactor code [10]
 2021-04-30 minor changes [11]
+2021-04-30 optimize function [12]
