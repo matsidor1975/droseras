@@ -309,3 +309,4 @@
 2021-04-30 add tests [3]
 2021-04-30 improve docs [4]
 2021-04-30 improve docs [5]
+2021-04-30 refactor code [6]
