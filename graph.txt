@@ -1029,3 +1029,4 @@
 2021-04-30 refactor code [18]
 2021-04-30 add tests [19]
 2021-04-30 improve docs [20]
+2021-05-03 fix bug [1]
