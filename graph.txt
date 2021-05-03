@@ -333,3 +333,4 @@
 2021-05-03 refactor code [9]
 2021-05-03 update feature [10]
 2021-05-03 add tests [11]
+2021-05-03 improve docs [12]
