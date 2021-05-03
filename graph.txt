@@ -335,3 +335,4 @@
 2021-05-03 add tests [11]
 2021-05-03 improve docs [12]
 2021-05-03 refactor code [13]
+2021-05-03 fix bug [14]
