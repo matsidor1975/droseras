@@ -1045,3 +1045,4 @@
 2021-05-03 fix bug [14]
 2021-05-05 add tests [1]
 2021-05-05 fix bug [2]
+2021-05-05 optimize function [3]
