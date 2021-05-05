@@ -345,3 +345,4 @@
 2021-05-05 update feature [4]
 2021-05-05 improve docs [5]
 2021-05-05 optimize function [6]
+2021-05-05 minor changes [7]
