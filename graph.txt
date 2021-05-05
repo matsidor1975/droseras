@@ -1049,3 +1049,4 @@
 2021-05-05 optimize function [4]
 2021-05-05 add tests [5]
 2021-05-05 add tests [6]
+2021-05-05 improve docs [7]
