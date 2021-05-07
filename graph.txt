@@ -356,3 +356,4 @@
 2021-05-07 refactor code [3]
 2021-05-07 improve docs [4]
 2021-05-07 refactor code [5]
+2021-05-07 optimize function [6]
