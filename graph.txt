@@ -1080,3 +1080,4 @@
 2021-05-10 refactor code [5]
 2021-05-10 add tests [6]
 2021-05-10 refactor code [7]
+2021-05-10 optimize function [8]
