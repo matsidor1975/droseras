@@ -375,3 +375,4 @@
 2021-05-10 add tests [4]
 2021-05-10 optimize function [5]
 2021-05-10 optimize function [6]
+2021-05-10 minor changes [7]
