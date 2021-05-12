@@ -1092,3 +1092,4 @@
 2021-05-10 refactor code [17]
 2021-05-12 refactor code [1]
 2021-05-12 add tests [2]
+2021-05-12 optimize function [3]
