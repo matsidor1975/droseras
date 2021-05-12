@@ -396,3 +396,4 @@
 2021-05-12 fix bug [8]
 2021-05-12 optimize function [9]
 2021-05-12 improve docs [10]
+2021-05-12 improve docs [11]
