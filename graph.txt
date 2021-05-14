@@ -399,3 +399,4 @@
 2021-05-12 improve docs [11]
 2021-05-12 refactor code [12]
 2021-05-14 update feature [1]
+2021-05-14 fix bug [2]
