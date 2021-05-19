@@ -435,3 +435,4 @@
 2021-05-19 update feature [6]
 2021-05-19 add tests [7]
 2021-05-19 update feature [8]
+2021-05-19 optimize function [9]
