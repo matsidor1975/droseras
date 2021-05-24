@@ -465,3 +465,4 @@
 2021-05-24 fix bug [8]
 2021-05-24 optimize function [9]
 2021-05-24 fix bug [10]
+2021-05-24 improve docs [11]
