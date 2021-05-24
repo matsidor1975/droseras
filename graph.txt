@@ -463,3 +463,4 @@
 2021-05-24 minor changes [6]
 2021-05-24 add tests [7]
 2021-05-24 fix bug [8]
+2021-05-24 optimize function [9]
