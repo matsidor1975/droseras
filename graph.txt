@@ -496,3 +496,4 @@
 2021-05-27 minor changes [18]
 2021-05-28 update feature [1]
 2021-05-28 improve docs [2]
+2021-05-28 optimize function [3]
