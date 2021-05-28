@@ -500,3 +500,4 @@
 2021-05-28 improve docs [4]
 2021-05-28 minor changes [5]
 2021-05-28 update feature [6]
+2021-05-28 optimize function [7]
