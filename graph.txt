@@ -1218,3 +1218,4 @@
 2021-05-28 optimize function [18]
 2021-06-14 improve docs [1]
 2021-06-14 fix bug [2]
+2021-06-14 minor changes [3]
