@@ -528,3 +528,4 @@
 2021-06-15 minor changes [4]
 2021-06-15 update feature [5]
 2021-06-15 add tests [6]
+2021-06-15 improve docs [7]
