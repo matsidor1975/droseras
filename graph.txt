@@ -530,3 +530,4 @@
 2021-06-15 add tests [6]
 2021-06-15 improve docs [7]
 2021-06-15 fix bug [8]
+2021-06-15 improve docs [9]
