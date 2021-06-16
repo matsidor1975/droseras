@@ -1243,3 +1243,4 @@
 2021-06-16 add tests [1]
 2021-06-16 fix bug [2]
 2021-06-16 fix bug [3]
+2021-06-16 improve docs [4]
