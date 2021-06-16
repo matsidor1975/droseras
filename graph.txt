@@ -540,3 +540,4 @@
 2021-06-15 add tests [16]
 2021-06-16 add tests [1]
 2021-06-16 optimize function [2]
+2021-06-16 refactor code [3]
