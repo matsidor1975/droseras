@@ -557,3 +557,4 @@
 2021-06-18 minor changes [6]
 2021-06-18 add tests [7]
 2021-06-18 improve docs [8]
+2021-06-18 refactor code [9]
