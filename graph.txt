@@ -555,3 +555,4 @@
 2021-06-18 optimize function [4]
 2021-06-18 optimize function [5]
 2021-06-18 minor changes [6]
+2021-06-18 add tests [7]
