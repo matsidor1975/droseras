@@ -1263,3 +1263,4 @@
 2021-06-18 add tests [8]
 2021-06-21 improve docs [1]
 2021-06-21 update feature [2]
+2021-06-21 refactor code [3]
