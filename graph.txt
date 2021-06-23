@@ -1274,3 +1274,4 @@
 2021-06-23 add tests [3]
 2021-06-23 optimize function [4]
 2021-06-23 update feature [5]
+2021-06-23 improve docs [6]
