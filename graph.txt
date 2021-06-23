@@ -1286,3 +1286,4 @@
 2021-06-23 fix bug [15]
 2021-06-23 minor changes [16]
 2021-06-23 refactor code [17]
+2021-06-23 optimize function [18]
