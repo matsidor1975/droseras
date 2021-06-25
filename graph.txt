@@ -591,3 +591,4 @@
 2021-06-25 improve docs [8]
 2021-06-25 add tests [9]
 2021-06-25 improve docs [10]
+2021-06-25 refactor code [11]
