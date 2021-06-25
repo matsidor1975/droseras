@@ -581,3 +581,4 @@
 2021-06-23 improve docs [13]
 2021-06-23 minor changes [14]
 2021-06-23 optimize function [15]
+2021-06-25 fix bug [1]
