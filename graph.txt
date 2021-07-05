@@ -627,3 +627,4 @@
 2021-07-05 update feature [3]
 2021-07-05 improve docs [4]
 2021-07-05 add tests [5]
+2021-07-05 improve docs [6]
