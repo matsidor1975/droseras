@@ -642,3 +642,4 @@
 2021-07-05 optimize function [18]
 2021-07-05 optimize function [19]
 2021-07-07 add tests [1]
+2021-07-07 optimize function [2]
