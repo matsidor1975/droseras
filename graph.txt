@@ -658,3 +658,4 @@
 2021-07-09 improve docs [6]
 2021-07-09 fix bug [7]
 2021-07-09 optimize function [8]
+2021-07-09 refactor code [9]
