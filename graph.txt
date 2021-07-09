@@ -1375,3 +1375,4 @@
 2021-07-09 optimize function [10]
 2021-07-09 add tests [11]
 2021-07-09 improve docs [12]
+2021-07-09 minor changes [13]
