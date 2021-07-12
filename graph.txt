@@ -680,3 +680,4 @@
 2021-07-12 refactor code [11]
 2021-07-12 update feature [12]
 2021-07-12 improve docs [13]
+2021-07-12 optimize function [14]
