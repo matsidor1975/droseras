@@ -694,3 +694,4 @@
 2021-07-14 fix bug [11]
 2021-07-14 add tests [12]
 2021-07-15 improve docs [1]
+2021-07-15 fix bug [2]
